@@ -1,0 +1,21 @@
+.slideshow-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slideshow-image {
+    width: 300px
+}
+
+.slideshow-button {
+    margin: 30px;
+}
+
+.slideshow-description {
+    float: left;
+}
+
+.slideshow-counter {
+    float: right;
+}
